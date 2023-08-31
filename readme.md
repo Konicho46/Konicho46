@@ -19,6 +19,7 @@ My name is Nicholas Nathanael Suhendar. I'm a Front-End Programmer, UI/UX Design
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![CodeIgniter](https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com/user_guide/index.html)
 
 #### Others
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
