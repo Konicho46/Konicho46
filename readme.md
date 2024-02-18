@@ -1,6 +1,6 @@
 # 안녕하세요👋  
 
-A Business Information Systems student who has passion and enthusiasm for front-end and back-end websites and UI/UX Designer. Enjoys working together in a team and has a deep curiosity in the world of Web Developer
+Seorang mahasiswa jurusan Sistem Informasi Bisnis yang memiliki passion dan entusias mendalam pada bidang Front-End Developer dan UI/UX Designer.
 
 ![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konicho46&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konicho46&layout=compact)](https://github.com/Konicho46/)
