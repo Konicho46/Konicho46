@@ -62,9 +62,9 @@ Selalu bersemangat belajar teknologi baru, membangun interface intuitif, dan men
 
 ## 📫 Let’s Connect!
 
-- 🌐 Portfolio: _coming soon_
-- 📷 Instagram: [@konicho46](https://instagram.com/konicho46)
-- 📨 Email: **nicholas.tjhang@student.ukp.ac.id**
+- 🌐 Portfolio: https://nnael.netlify.app/
+- 📷 Instagram: [@konicho.46](https://instagram.com/konicho.46)
+- 📨 Email: nicholas.nathanael46@gmail.com
 
 ---
 
